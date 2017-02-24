@@ -1,8 +1,8 @@
 welcome to GIT
 
 
-changed1
+Changed 1
 
 
 
-changed2
+Changed 2
